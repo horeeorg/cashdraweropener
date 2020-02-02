@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Buka Cash Drawer</string>
+    <string name="button_start">3. Tampilkan Tombol Laci Pada Beranda</string>
+    <string name="button_scan">1. Pilih Bluetooth Printer</string>
+    <string name="button_test_open">2. Tes Buka Cash Drawer</string>
+</resources>
